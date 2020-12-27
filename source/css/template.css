@@ -1,0 +1,35 @@
+/*
+@media (min-width:768px){
+  #site-name {
+    padding-top: 10px;
+  }
+}
+
+
+@media (min-width:992px){
+  #site-name {
+    padding-top: 0;
+  }
+}
+
+@media (min-width:1200px){
+  #site-name {
+    padding-top: 10px;
+  }
+}
+*/
+
+.entry-meta {
+  display: none;
+}
+
+#site-name {
+  font-size: 1.4em;
+  font-weight: bold;
+}
+
+#site-description {
+  font-size: 1.4em;
+  font-weight: 300;
+  text-transform: none;
+}
